@@ -8,7 +8,6 @@ An advanced data analytics using both Excel for data cleaning and Power BI for d
  - [Tools Used](#tools-used)
  - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
  - [Exploratory Data Analysis](#exploratory-data-analysis)
- - [Insights](#insights)
  - [Recommendations](#recommendations)
  - [Limitations](#limitations)
  - [Contact](#contact)
@@ -82,3 +81,8 @@ I leveraged my skills in AI prompt to generate a dataset for SDG 1: No Poverty, 
 The data used for the analysis was sourced from ChatGPT, which may not be entirely up-to-date or comprehensive. Also, the analysis relied on historical and descriptive data, predictive modelling techniques such as machine learning were not implemented due to time constraints.
 
 ## Contact
+
+ [Email](https://myaccount.google.com/) funmyshow@gmail.com
+- [Additional portfolio](https://www.datacamp.com/portfolio/funmyshow)
+- [Phone Number](08146696383) 08146696383
+- [Connect on LinkedIn here](https://www.linkedin.com/in/funmilayo-shodimu)
