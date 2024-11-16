@@ -19,9 +19,9 @@ An advanced data analytics using both Excel for data cleaning and Power BI for d
 
   Poverty remains a critical challenge worldwide, deeply intertwined with issues such as healthcare, education and economic opportunities. 
 SDG 1 aims to end poverty in all its forms world wide by 2030 through holistic approach to improving economic stability, reducing inequalities and enhancing quality of life to create a world free of poverty. By taking a data-driven approach, this project aims to: 
- - Analyze socio-economic factors (income, literacy, healthcare access)
- - Identify key poverty drivers and regional disparities
- - Propose data-driven recommendations for effective poverty alleviation.
+   - Analyze socio-economic factors (income, literacy, healthcare access)
+   - Identify key poverty drivers and regional disparities
+   - Propose data-driven recommendations for effective poverty alleviation.
 
 
 - In this group project, I played the role as the team lead for 30 women, I took the responsibility for coordinating and managing both the people and our project from ideation to execution,leveraged skills in Project Management, team collaboration, communication, leadership and general soft skills. Also, I leveraged my skills in AI prompt to generate a dataset for SDG 1 by telling my objectives to ChatGPT using the appropraite prompt.
