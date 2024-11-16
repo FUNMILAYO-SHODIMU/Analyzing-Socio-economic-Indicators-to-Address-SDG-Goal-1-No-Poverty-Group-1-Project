@@ -30,7 +30,7 @@ SDG 1 aims to end poverty in all its forms world wide by 2030 through holistic a
 
 ## Data Source
 
-I leveraged my skills in AI prompt to generate a dataset for SDG 1: No Poverty, by telling my objectives to ChatGPT using the appropraite prompt.
+I leveraged my skills in AI prompt to generate a dataset for SDG 1: No Poverty, by telling my objectives to ChatGPT using the appropriate prompt.
 
 
 ## Tools Used
@@ -40,7 +40,7 @@ I leveraged my skills in AI prompt to generate a dataset for SDG 1: No Poverty, 
 
 ## Data Cleaning and Preparation
 
-- The data type was transformed to represent what the data is contained in each column.
+- The data type was transformed to describe the data contained in each column.
 - We introduced a new column to group the countries by their continents.
 - For missing years in each country, we introduced an average aggregations using the available data in past years.
 - We checked for data consistency, accuracy, completion and all data are valid and relevant.
