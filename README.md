@@ -66,7 +66,7 @@ I leveraged my skills in AI prompt to generate a dataset for SDG 1: No Poverty, 
 - The data reveals significant disparities in poverty rates, literacy rates, child mortality rates, and life expectancy across different regions and years. 
 - Turkey and South America are notable for their high poverty and literacy rates respectively, while North America leads in income per capita. 
 - The year 2019 stands out due to the significant divergence between child mortality and poverty rates. 
-- Additionally, there's a clear negative correlation between poverty rates and child mortality rates, indicating that as poverty increases, child mortality tends to rise. 
+- Additionally, there's a clear positive correlation between poverty rates and child mortality rates, indicating that as poverty increases, child mortality tends to rise. 
 - The analysis of life expectancy and healthcare access also shows notable variations, with 2022 having the highest life expectancy and 2020 showing the greatest divergence between life expectancy and healthcare access.
 
 ## Recommendations
